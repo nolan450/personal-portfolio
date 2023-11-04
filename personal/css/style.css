@@ -927,7 +927,7 @@ blockquote>cite {
     display: flex;
     min-height: 100vh;
     align-items: center;
-    background: linear-gradient(to right, #2A2D3E, #FECB45);
+    background-color: #15193c;
     visibility: hidden;
     -webkit-backface-visibility: hidden;
     -moz-backface-visibility: hidden;
@@ -1656,7 +1656,7 @@ blockquote>cite {
         display: flex;
         align-items: center;
         justify-content: space-between;
-        box-shadow: 1px 1px 7px #e1e1e1;
+        box-shadow: 1px 1px 7px #ff3f3f;
     }
 
     .logo {
@@ -1671,8 +1671,8 @@ blockquote>cite {
         top: 0;
         left: -90px;
         height: 100vh;
-        background-color: #fff;
-        box-shadow: 1px 1px 7px #e1e1e1;
+        background-color: #15193c;
+        box-shadow: 1px 1px 7px #ff3f3f;
         -webkit-transition: all 0.3s ease-in-out;
         -moz-transition: all 0.3s ease-in-out;
         -o-transition: all 0.3s ease-in-out;
