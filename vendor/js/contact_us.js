@@ -1,5 +1,5 @@
 //contact us form
-$(".contact_btn").on('click', function () {
+/* $(".contact_btn").on('click', function () {
     //disable submit button on click
     // $(".contact_btn").attr("disabled", "disabled");
     // $(".contact_btn b").text('Sending');
@@ -97,7 +97,7 @@ $(".contact_btn").on('click', function () {
     }
 
 
-});
+}); */
 
 
 
